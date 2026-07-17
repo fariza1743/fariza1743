@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Fariza Siddiqua</h1>
+<h1 align="center">Hi, I’m Fariza</h1>
 
 <p align="center"> Ph.D. Student in Electrical and Computer Engineering at The University of Texas at El Paso </p>
 
