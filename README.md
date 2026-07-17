@@ -18,7 +18,7 @@ Generative AI for hardware design
 Parameter-efficient model development.
 
 Current Research
-* AND-MUSHROOM: Energy-Efficient LLM Pruning 
+* MUSHROOM-SVD: Energy-Efficient LLM Pruning 
 * End-to-end transformer inference on edge FPGA
 
 AND-MUSHROOM investigates structured, calibration-aware compression of transformer models for energy-efficient inference. The project studies layer-sensitive pruning, hidden-channel reduction, low-rank attention compression, and the relationship between model quality, latency, memory, and GPU energy consumption.
