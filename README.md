@@ -26,13 +26,13 @@ AND-MUSHROOM investigates structured, calibration-aware compression of transform
 
 Focus: LLM compression, structured pruning, low-rank approximation, long-context evaluation, and energy-aware inference.
 
-View repository
+View repository: https://github.com/fariza1743/MUSHROOM-SVD
 
 Efficient Time-Series Models for Personalized Healthcare
 
 I am developing parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
 
-View repository
+View repository: https://github.com/fariza1743/Conv-GRU
 
 Selected Projects
 Gram-Matrix-Based Shallow DNN for GI Tract MRI Segmentation
