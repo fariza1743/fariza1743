@@ -2,7 +2,7 @@
 
 <p align="center"> Ph.D. Student in Electrical and Computer Engineering at The University of Texas at El Paso </p>
 
-<p align="center"> Efficient AI • LLM Compression • Signal Processing • Hardware–Software Co-design </p>
+<p align="center"> Efficient AI • LLM Compression • Efficient AI Accelerator Design </p>
 
 About Me
 
