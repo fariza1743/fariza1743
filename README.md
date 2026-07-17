@@ -6,21 +6,20 @@
 
 About Me
 
-I am a Ph.D. student in Electrical and Computer Engineering at The University of Texas at El Paso (UTEP). My research focuses on developing efficient and deployable artificial intelligence systems through model compression, energy-aware evaluation, signal processing, and hardware–software co-design.
+I am a Ph.D. student in Electrical and Computer Engineering at The University of Texas at El Paso (UTEP). My research focuses on developing efficient and deployable artificial intelligence systems through model compression and hardware–software co-design.
 
 I received my B.Sc. in Electrical and Electronic Engineering from the Bangladesh University of Engineering and Technology (BUET), where I specialized in communication and signal processing.
 
 My current research interests include:
 
-Energy-efficient large language models
-Structured pruning and low-rank model compression
-Long-context LLM inference and energy evaluation
-Efficient deep learning for time-series and biomedical applications
+Energy-efficient LLM Compression
 FPGA-based AI acceleration
 Generative AI for hardware design
-Signal and image processing
+Parameter-efficient model development.
+
 Current Research
-AND-MUSHROOM: Energy-Efficient LLM Pruning
+* AND-MUSHROOM: Energy-Efficient LLM Pruning 
+* End-to-end transformer inference on edge FPGA
 
 AND-MUSHROOM investigates structured, calibration-aware compression of transformer models for energy-efficient inference. The project studies layer-sensitive pruning, hidden-channel reduction, low-rank attention compression, and the relationship between model quality, latency, memory, and GPU energy consumption.
 
@@ -30,7 +29,7 @@ View repository: https://github.com/fariza1743/MUSHROOM-SVD
 
 Efficient Time-Series Models for Personalized Healthcare
 
-I am developing parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
+I developed parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
 
 View repository: https://github.com/fariza1743/Conv-GRU
 
