@@ -15,7 +15,7 @@ FPGA-based AI acceleration,
 Generative AI for hardware design, 
 Parameter-efficient model development.
 
-Current Research
+## Current Research
 * MUSHROOM-SVD: Energy-Efficient LLM Pruning 
 * End-to-end transformer inference on edge FPGA
 
@@ -25,13 +25,15 @@ Focus: LLM compression, structured pruning, low-rank approximation, long-context
 
 View repository: https://github.com/fariza1743/MUSHROOM-SVD
 
-Efficient Time-Series Models for Personalized Healthcare (Accepted in IEEE EMBC 2026)
+## Published Works
+
+* Efficient Time-Series Models for Personalized Healthcare (Accepted in IEEE EMBC 2026)
 
 I developed parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
 
 View repository: https://github.com/fariza1743/Conv-GRU
 
-Undergraduate Thesis (Published in IEEE R10 HTC 2023)
+* Undergraduate Thesis (Published in IEEE R10 HTC 2023)
 Gram-Matrix-Based Shallow DNN for GI Tract MRI Segmentation
 
 Developed a computationally efficient shallow neural network for gastrointestinal tract MRI segmentation. The method uses Gram-matrix-based feature interactions to provide competitive segmentation performance with fewer trainable parameters than several deeper architectures.
