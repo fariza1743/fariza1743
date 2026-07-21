@@ -60,7 +60,7 @@ B.Sc. in Electrical and Electronic Engineering from BUET
 Second place in the ICCD 2025 LLMs for Hardware Design Challenge
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/fariza-siddiqua-051513168
+LinkedIn: https://www.linkedin.com/in/fariza-siddiqua-051513168    
 Email: fariza.eee17.buet@gmail.com
 
 <p align="center"> I am interested in research collaborations involving efficient AI, LLMs for chip design, and AI hardware acceleration. </p>
