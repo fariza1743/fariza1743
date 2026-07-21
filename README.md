@@ -58,8 +58,11 @@ FPGA • RTL Design • Yosys • Icarus Verilog • CUDA • Linux • Git
 
 Ph.D. student in Electrical and Computer Engineering at UTEP <br>
 B.Sc. in Electrical and Electronic Engineering from BUET <br>
-1st Place in NSSD LAST-X LLM for Security Challenge 2026 <br>
+1st Place in NSSD LAST-X LLM for Security Challenge 2026 
+https://last-x-workshop.github.io/competition.html
+<br>
 Second place in the ICCD 2025 LLMs for Hardware Design Challenge
+https://www.linkedin.com/posts/kevingubbi_congratulations-to-our-competition-winners-activity-7402558944109666304-KpZv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfxYX0B6f2QZbAcNG5JfkfN4X1AEa6i3fY
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/fariza-siddiqua-051513168    
