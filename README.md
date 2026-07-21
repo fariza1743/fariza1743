@@ -54,9 +54,11 @@ Hardware and Systems
 FPGA • RTL Design • Yosys • Icarus Verilog • CUDA • Linux • Git
 
 * Highlights
-Ph.D. student in Electrical and Computer Engineering at UTEP
-B.Sc. in Electrical and Electronic Engineering from BUET
-1st Place in NSSD LAST-X LLM for Security Challenge
+
+
+Ph.D. student in Electrical and Computer Engineering at UTEP <br>
+B.Sc. in Electrical and Electronic Engineering from BUET <br>
+1st Place in NSSD LAST-X LLM for Security Challenge <br>
 Second place in the ICCD 2025 LLMs for Hardware Design Challenge
 
 ## Connect With Me
