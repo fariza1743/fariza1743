@@ -27,73 +27,42 @@ Focus: LLM compression, structured pruning, low-rank approximation, long-context
 
 View repository: https://github.com/fariza1743/MUSHROOM-SVD
 
-Efficient Time-Series Models for Personalized Healthcare
+Efficient Time-Series Models for Personalized Healthcare (Accepted in IEEE EMBC 2026)
 
 I developed parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
 
 View repository: https://github.com/fariza1743/Conv-GRU
 
-Selected Projects
+Undergraduate Thesis (Published in IEEE R10 HTC 2023)
 Gram-Matrix-Based Shallow DNN for GI Tract MRI Segmentation
 
 Developed a computationally efficient shallow neural network for gastrointestinal tract MRI segmentation. The method uses Gram-matrix-based feature interactions to provide competitive segmentation performance with fewer trainable parameters than several deeper architectures.
 
 This work was completed as my undergraduate thesis and published through IEEE.
 
-View repository
+## Technical Skills
 
-PhonoTrack: Heart-Sound-Based Health Monitoring
-
-Designed a biomedical hardware and signal-processing prototype to estimate heart rate and blood pressure from phonocardiogram signals. The project included data collection, signal analysis, hardware development, and predictive modeling.
-
-View repository
-
-Vehicle Speed Detection Using CNNs
-
-Developed a computer-vision pipeline for detecting vehicles and estimating their speed from video data using convolutional neural networks and image-processing techniques.
-
-View repository
-
-BIKIRON: Data-Driven Agricultural Recommendation System
-
-Developed a sensor-based agricultural monitoring and recommendation system combining environmental data collection with data-driven decision support.
-
-View repository
-
-Research Journey
-
-My work began with signal-processing and biomedical projects, including heart-sound analysis, medical image segmentation, and video-based vehicle-speed estimation. These projects motivated my broader interest in transforming noisy real-world measurements into useful decisions.
-
-My current research extends that foundation toward efficient artificial intelligence systems, particularly LLM compression, time-series learning, energy-aware inference, and specialized hardware acceleration.
-
-Technical Skills
-
-Programming
+* Programming
 
 Python • C/C++ • MATLAB • Verilog/SystemVerilog • SQL
 
-Machine Learning
 
-PyTorch • Transformers • NumPy • Pandas • scikit-learn • OpenCV
+* Research Areas
 
-Research Areas
-
-Large Language Models • Model Compression • Structured Pruning • Low-Rank Approximation • Time-Series Forecasting • Computer Vision • Signal Processing
+Model Compression • AI Hardware Acceleration • LLMs for Chip Design
 
 Hardware and Systems
 
 FPGA • RTL Design • Yosys • Icarus Verilog • CUDA • Linux • Git
 
-Highlights
+* Highlights
 Ph.D. student in Electrical and Computer Engineering at UTEP
 B.Sc. in Electrical and Electronic Engineering from BUET
-IEEE-published research on efficient MRI segmentation
+1st Place in NSSD LAST-X LLM for Security Challenge
 Second place in the ICCD 2025 LLMs for Hardware Design Challenge
-Experience spanning efficient AI, biomedical signal processing, computer vision, FPGA systems, and embedded sensing
-Connect With Me
-LinkedIn: Add your LinkedIn link
-Google Scholar: Add your Google Scholar link
-Personal Website: Add your website link
-Email: Add your professional or university email
 
-<p align="center"> I am interested in research collaborations involving efficient AI, model compression, signal processing, and AI hardware acceleration. </p>
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/fariza-siddiqua-051513168
+Email: fariza.eee17.buet@gmail.com
+
+<p align="center"> I am interested in research collaborations involving efficient AI, LLMs for chip design, and AI hardware acceleration. </p>
