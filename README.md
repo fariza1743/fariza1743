@@ -68,4 +68,3 @@ https://www.linkedin.com/posts/kevingubbi_congratulations-to-our-competition-win
 LinkedIn: https://www.linkedin.com/in/fariza-siddiqua-051513168    
 Email: fariza.eee17.buet@gmail.com
 
-<p align="center"> I am interested in research collaborations involving efficient AI, LLMs for chip design, and AI hardware acceleration. </p>
