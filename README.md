@@ -10,9 +10,9 @@ I received my B.Sc. in Electrical and Electronic Engineering from the Bangladesh
 
 My current research interests include:
 
-Energy-efficient LLM Compression
-FPGA-based AI acceleration
-Generative AI for hardware design
+Energy-efficient LLM Compression, 
+FPGA-based AI acceleration, 
+Generative AI for hardware design, 
 Parameter-efficient model development.
 
 Current Research
