@@ -8,12 +8,6 @@ I am a Ph.D. student in Electrical and Computer Engineering at The University of
 
 I received my B.Sc. in Electrical and Electronic Engineering from the Bangladesh University of Engineering and Technology (BUET), where I specialized in communication and signal processing.
 
-My current research interests include:
-
-Energy-efficient LLM Compression, 
-FPGA-based AI acceleration, 
-Generative AI for hardware design, 
-Parameter-efficient model development.
 
 ## Current Research
 * MUSHROOM-SVD: Energy-Efficient LLM Pruning 
@@ -27,14 +21,19 @@ View repository: https://github.com/fariza1743/MUSHROOM-SVD
 
 ## Published Works
 
-* Efficient Time-Series Models for Personalized Healthcare (Accepted in IEEE EMBC 2026)
+* Parameter-Efficient Convolutional GRU Network with Temporal Regularization for Personalized Prandial Recommendations in Glycemic Control (Accepted in IEEE EMBC 2026)
 
 I developed parameter-efficient neural networks for personalized biomedical decision support. My Conv-GRU work combines convolutional feature extraction, gated recurrent modeling, and temporal regularization for prandial insulin and carbohydrate recommendations.
 
 View repository: https://github.com/fariza1743/Conv-GRU
 
+<br>
+
+* Embedded AI for Subject-Independent Brain Computer Interface using EEG Signals (Accepted in IEEE MWSCAS 2026)
+
 * Undergraduate Thesis (Published in IEEE R10 HTC 2023)
-Gram-Matrix-Based Shallow DNN for GI Tract MRI Segmentation
+Leveraging Gram Matrix Representation in Shallow DNN for GI Tract MRI Scanned Image Segmentation.
+<br>
 
 Developed a computationally efficient shallow neural network for gastrointestinal tract MRI segmentation. The method uses Gram-matrix-based feature interactions to provide competitive segmentation performance with fewer trainable parameters than several deeper architectures.
 
