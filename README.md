@@ -12,6 +12,7 @@ I received my B.Sc. in Electrical and Electronic Engineering from the Bangladesh
 ## Current Research
 * MUSHROOM-SVD: Energy-Efficient LLM Pruning 
 * End-to-end transformer inference on edge FPGA
+* LLM Based RTL Cleanup for FPGA PPA
 
 MUSHROOM-SVD investigates structured, calibration-aware compression of transformer models for energy-efficient inference. The project studies layer-sensitive pruning, hidden-channel reduction, low-rank attention compression, and the relationship between model quality, latency, memory, and GPU energy consumption.
 
