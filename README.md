@@ -34,7 +34,6 @@ View repository: https://github.com/fariza1743/Conv-GRU
 
 * Undergraduate Thesis (Published in IEEE R10 HTC 2023)
 Leveraging Gram Matrix Representation in Shallow DNN for GI Tract MRI Scanned Image Segmentation.
-<br>
 
 Developed a computationally efficient shallow neural network for gastrointestinal tract MRI segmentation. The method uses Gram-matrix-based feature interactions to provide competitive segmentation performance with fewer trainable parameters than several deeper architectures.
 
