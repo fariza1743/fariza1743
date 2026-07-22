@@ -28,8 +28,6 @@ I developed parameter-efficient neural networks for personalized biomedical deci
 
 View repository: https://github.com/fariza1743/Conv-GRU
 
-<br>
-
 * Embedded AI for Subject-Independent Brain Computer Interface using EEG Signals (Accepted in IEEE MWSCAS 2026)
 
 * Undergraduate Thesis (Published in IEEE R10 HTC 2023)
