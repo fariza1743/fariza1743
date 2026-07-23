@@ -2,7 +2,7 @@
 
 <p align="center"> Ph.D. Student in Electrical and Computer Engineering at The University of Texas at El Paso </p>
 
-<p align="center"> Efficient AI • LLM Compression • Efficient AI Accelerator Design </p>
+<p align="center"> Model Compression • Efficient AI Accelerator Design • Algorithm-Hardware Co-design </p>
 
 I am a Ph.D. student in Electrical and Computer Engineering at The University of Texas at El Paso (UTEP). My research focuses on developing efficient and deployable artificial intelligence systems through model compression and hardware–software co-design.
 
